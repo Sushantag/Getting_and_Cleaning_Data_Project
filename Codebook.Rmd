@@ -32,7 +32,7 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 <b>Code Book</b>  
 
 
-subject:  An identifier of the subject who carried out the experiment. Since there were 30 volunteers in the study.  This variable varies between 1 to 30.  
+subject:  An identifier of the subject who carried out the experiment. Since there were 30 volunteers in the study, this variable varies between 1 to 30.  
 
 
 activity: This variable indicates the activity being performed by the subject at the time of measurement.  This variable takes one of the following values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.  
