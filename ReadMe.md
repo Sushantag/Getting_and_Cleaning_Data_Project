@@ -2,7 +2,7 @@ This repository is a part of Project of Getting and Cleaning Data Course by John
     
 The R script (run_analysis.R) has been written to achieve the objectives of the project shown below in 8 Steps. The objectives and the corresponding steps in the R script which achieve the objective is shown below.
     
-Objectives
+Objectives  
  1) Merges the training and the test sets to create one data set. Step 5  
  2) Extracts only the measurements on the mean and standard deviation for each measurement. Step 6  
  3) Uses descriptive activity names to name the activities in the data set. Step 7  
