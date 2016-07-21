@@ -1,6 +1,6 @@
 <b>Introduction</b>  
 This repository is a part of Project of Getting and Cleaning Data Course by Johns Hopkins University on Coursera. This repository contains the following files:  
-1) Readme.Rmd - this file
+1) Readme.Rmd - this file  
 2) Codebook.Rmd- Codebook summarising the study design and codebook for tidymeandata.txt  
 3) run_analysis.R- R code used for generating tidymeandata.txt  
 4) tidymeandata.txt- tidy data generated from run_analysis.R  
