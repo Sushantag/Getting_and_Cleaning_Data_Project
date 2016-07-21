@@ -38,7 +38,7 @@ subject:  An identifier of the subject who carried out the experiment. Since the
 activity: This variable indicates the activity being performed by the subject at the time of measurement.  This variable takes one of the following values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.  
 
 
-The following variables are the arithematic means calculated from all the meeasurments obtained from the study discussed in Study Design. Of all the variables from the study, only those variables which denote mean and standard deviation have been processed in this data set (this was one of the requirements of the assignment).  
+The following 86 variables are the arithematic means calculated from all the meeasurments obtained from the study discussed in Study Design. Of all the variables from the study, only those variables which denote mean and standard deviation have been processed in this data set (this was one of the requirements of the assignment).  
 
 tBodyAcc-mean()-X  
 tBodyAcc-mean()-Y  
