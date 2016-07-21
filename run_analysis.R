@@ -32,10 +32,9 @@ alldata <- alldata[,meanstd]
 #Step 7- Add activity names from activity labels into alldata and generate tidyalldata.txt
 alldata[,1] <- as.factor(alldata[,1])
 alldata[,2] <- factor(alldata[,2], levels = activitylabels[,1], labels = activitylabels[,2])
-write.table(alldata, "./data/tidyalldata.txt", row.names = F, quote = F)
 
 #Step 8 - Generate Tidy Mean data 
 library(reshape2)
 alldata <- melt(alldata, id.vars = c("subject", "activity"))
 meandata <- dcast(alldata, subject + activity ~ variable, fun.aggregate = mean)
-write.table(meandata, "./data/tidymeandata.txt", row.names = F)
+write.table(meandata, "./data/tidymeandata.txt", row.names = F, quote = F)
