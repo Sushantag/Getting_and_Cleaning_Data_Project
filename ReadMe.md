@@ -1,6 +1,6 @@
 This repository is a part of Project of Getting and Cleaning Data Course by Johns Hopkins University on Coursera
     
-The R script (run_analysis.R) has been written to achieve the objectives of the project shown below in 8 Steps. The objectives and the corresponding steps in the R script which achieve the objective is shown below.
+The R script (run_analysis.R) has been written to achieve the objectives of the project shown below in 8 Steps. The objectives and the corresponding steps in the R script which achieve the objective is shown below. This R script was written on 64 bit version  of R version 3.3.1 on Windows 10 platform.
     
 Objectives  
  1) Merges the training and the test sets to create one data set. Step 5  
