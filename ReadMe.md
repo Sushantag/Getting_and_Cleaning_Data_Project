@@ -10,7 +10,4 @@ The R script (run_analysis.R) has been written to achieve the objectives of the 
  4) Appropriately labels the data set with descriptive variable names. Step 7  
  5) From the data set in objective 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject. Step 8  
 
-<b>Assumptions</b>    
-It has been assumed that the objective is two generate two tiny data sets:  
-1) First tidy data set (tidyalldata.txt)- lists all data (all the measurements for each subject and activity) of variables with mean and std dev in variable names.  This is generated at the end of Step 7 in run_analysis.R.  
-2) Second tidy data set (tidymeandata.txt)- lists only the mean (for each subject and activity) of all variables with mean and std dev in variable names. This is generated at the end of Step 8 in run_analysis.R.  
+
